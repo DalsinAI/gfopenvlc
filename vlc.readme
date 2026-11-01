@@ -20,7 +20,7 @@ through GFOpenSocket. Picasso96 and CyberGraphX systems get a slower fallback.
 
 Status: planned; this readme is ready for the first release.
 
-Licences: our Amiga modules are MIT, Copyright (c) 2026 AmigaChrome Team. VLC's
+Licences: our Amiga modules are MIT, Copyright (c) 2026 AmiCradle Team. VLC's
 own code keeps its licences: libVLC, libvlccore and most modules are LGPL 2.1
 or later, and the player and some modules GPL 2 or later. FFmpeg keeps its
 own. The player as a whole is distributed under the GPL 2 or later, with every
