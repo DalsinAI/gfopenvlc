@@ -4,9 +4,9 @@
 
 - **SacredTrees** ([@SacredTrees](https://github.com/SacredTrees)): created and maintains this AmigaOS port of VLC. VLC itself is made by VideoLAN and its authors; this is an unofficial port, not made or endorsed by VideoLAN.
 
-## The AmigaChrome team
+## The AmiCradle team
 
-We are The AmigaChrome Team, who build VLC for AmigaOS alongside SacredTrees:
+We are The AmiCradle Team, who build VLC for AmigaOS alongside SacredTrees:
 
 - **Agnus**, our coordinator, who keeps every thread moving.
 - **Thufir**, **Kynes** and **Galen**, who started the work on SacredTrees's x86 cores.
@@ -31,7 +31,7 @@ Copyright (c) 2026 AmigaChrome Team, released under the MIT licence (`LICENSE`).
 
 ### From our other repositories
 
-OpenMedia, OpenRTG, OpenGPU and OpenSocket (MIT, AmigaChrome Team) are used by
+GFOpenMedia, GFOpenRTG, GFOpenGPU and GFOpenSocket (MIT, AmigaChrome Team) are used by
 the port and live in their own repositories.
 
 "VLC" and the cone are trademarks of VideoLAN. Amiga, AmigaOS and other

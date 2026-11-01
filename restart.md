@@ -4,11 +4,11 @@ _Written 6 October 2026 at about 23:55 UTC, while all work is paused on @SacredT
 
 ## What this repo is
 
-A port of VLC to AmigaOS 3.x with a GadTools interface, drawing through OpenRTG and OpenGPU and decoding through OpenMedia. Unofficial; VLC's LGPL/GPL kept.
+A port of VLC to AmigaOS 3.x with a GadTools interface, drawing through GFOpenRTG and GFOpenGPU and decoding through GFOpenMedia. Unofficial; VLC's LGPL/GPL kept.
 
 ## Where it stands
 
-Designed, not started. It waits on OpenGPU, the ACRTG v3 ring and OpenMedia.
+Designed, not started. It waits on GFOpenGPU, the ACRTG v3 ring and GFOpenMedia.
 
 ## Merged lately
 
@@ -20,7 +20,7 @@ Designed, not started. It waits on OpenGPU, the ACRTG v3 ring and OpenMedia.
 
 ## Next step
 
-1. Start after OpenMedia has a host-decode driver.
+1. Start after GFOpenMedia has a host-decode driver.
 
 ## Waiting on @SacredTrees
 
