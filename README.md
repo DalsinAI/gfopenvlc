@@ -1,15 +1,15 @@
 # VLC for AmigaOS (planned)
 
 A port of the VLC media player to AmigaOS 3.x. It has a GadTools interface
-and leaves the drawing to OpenRTG and OpenGPU wherever it can: frames stay in
+and leaves the drawing to GFOpenRTG and GFOpenGPU wherever it can: frames stay in
 video RAM, and they are converted, scaled and composited by the graphics
-board. Decoding goes through OpenMedia (the graphics chip's video engines, or
-the GPU's on AmigaChrome), sound through AHI, and network streams through
-OpenSocket. This is an unofficial port, not made or endorsed by VideoLAN.
+board. Decoding goes through GFOpenMedia (the graphics chip's video engines, or
+the GPU's on AmiCradle), sound through AHI, and network streams through
+GFOpenSocket. This is an unofficial port, not made or endorsed by VideoLAN.
 
-We, 4 October 2026: "can we port VLC to the Amiga based on our OpenRTG,
-OpenGPU, and the not specified openmediahardware project", and "it should
-have a GadTools interface but leverage OpenRTG as much as possible".
+We, 4 October 2026: "can we port VLC to the Amiga based on our GFOpenRTG,
+GFOpenGPU, and the not specified openmediahardware project", and "it should
+have a GadTools interface but leverage GFOpenRTG as much as possible".
 `PORTING.md` is the plan.
 
 Status, 4 October 2026: planned.
@@ -21,8 +21,8 @@ complies with them. We, 4 October 2026: "we want to stay legal, so we
 comply with the licences; our parts are MIT".
 
 - **Our files** are MIT, Copyright (c) 2026 AmigaChrome Team (`LICENSE`). This
-  covers the Amiga modules (the GadTools interface, OpenRTG video output, AHI
-  audio output, the OpenMedia decoder), the build scripts and the documents.
+  covers the Amiga modules (the GadTools interface, GFOpenRTG video output, AHI
+  audio output, the GFOpenMedia decoder), the build scripts and the documents.
   Each source file says so on an SPDX line (`SPDX-License-Identifier: MIT`).
 - **VLC's code** belongs to VideoLAN and its authors and keeps its licences.
   libVLC, libvlccore and most modules are LGPL 2.1 or later (`COPYING.LIB`).
@@ -37,7 +37,7 @@ comply with the licences; our parts are MIT".
   Every release names the VLC version and includes `COPYING`, `COPYING.LIB`
   and `LICENSE`. It also includes the complete source (our files, VLC's, and
   our changes to VLC's), or a written offer of it.
-- OpenMedia, OpenRTG, OpenGPU and OpenSocket are MIT, in their own
+- GFOpenMedia, GFOpenRTG, GFOpenGPU and GFOpenSocket are MIT, in their own
   repositories. This port only uses them.
 
 VLC's source comes from VideoLAN (https://code.videolan.org/videolan/vlc), at
@@ -48,7 +48,7 @@ checked before anything is released under that name.
 
 If you use or build on our part of this work, we ask (we do not require)
 that you credit the AmigaChrome Team. The Amiga port was started by
-the AmigaChrome Team, for AmigaChrome.
+the AmigaChrome Team, for AmiCradle.
 
 ## Contributors
 
