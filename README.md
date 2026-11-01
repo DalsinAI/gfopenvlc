@@ -20,7 +20,7 @@ Our files are MIT; VLC's files keep VLC's licences, and everything we ship
 complies with them. We, 4 October 2026: "we want to stay legal, so we
 comply with the licences; our parts are MIT".
 
-- **Our files** are MIT, Copyright (c) 2026 AmigaChrome Team (`LICENSE`). This
+- **Our files** are MIT, Copyright (c) 2026 AmiCradle Team (`LICENSE`). This
   covers the Amiga modules (the GadTools interface, GFOpenRTG video output, AHI
   audio output, the GFOpenMedia decoder), the build scripts and the documents.
   Each source file says so on an SPDX line (`SPDX-License-Identifier: MIT`).
@@ -47,9 +47,9 @@ a pinned release. This repository holds what the Amiga needs on top of it.
 checked before anything is released under that name.
 
 If you use or build on our part of this work, we ask (we do not require)
-that you credit the AmigaChrome Team. The Amiga port was started by
-the AmigaChrome Team, for AmiCradle.
+that you credit the AmiCradle Team. The Amiga port was started by
+the AmiCradle Team, for AmiCradle.
 
 ## Contributors
 
-VLC for AmigaOS is created and maintained by [SacredTrees](https://github.com/SacredTrees) with The AmigaChrome Team, copyright AmigaChrome Team. Everyone whose work it includes is credited in [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
+VLC for AmigaOS is created and maintained by [SacredTrees](https://github.com/SacredTrees) with The AmiCradle Team, copyright AmiCradle Team. Everyone whose work it includes is credited in [`CONTRIBUTORS.md`](CONTRIBUTORS.md).

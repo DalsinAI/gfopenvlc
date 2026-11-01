@@ -15,7 +15,7 @@ We are The AmiCradle Team, who build VLC for AmigaOS alongside SacredTrees:
 ## Copyright holder
 
 Our files (the Amiga modules, build scripts and documents) are
-Copyright (c) 2026 AmigaChrome Team, released under the MIT licence (`LICENSE`).
+Copyright (c) 2026 AmiCradle Team, released under the MIT licence (`LICENSE`).
 
 ## Third-party work in this repository
 
@@ -31,7 +31,7 @@ Copyright (c) 2026 AmigaChrome Team, released under the MIT licence (`LICENSE`).
 
 ### From our other repositories
 
-GFOpenMedia, GFOpenRTG, GFOpenGPU and GFOpenSocket (MIT, AmigaChrome Team) are used by
+GFOpenMedia, GFOpenRTG, GFOpenGPU and GFOpenSocket (MIT, AmiCradle Team) are used by
 the port and live in their own repositories.
 
 "VLC" and the cone are trademarks of VideoLAN. Amiga, AmigaOS and other
